@@ -46,7 +46,6 @@ public class Veiculo {
 		this.modelo = modelo;
 		this.placa = placa;
 		this.tempoEstacionado = tempoEstacionado;
-
 		this.vezesUtilizado = vezesUtilizado;
 	}
 	
